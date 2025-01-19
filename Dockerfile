@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.14.0a1-alpine
 LABEL maintainer="Kevin Fronczak <kfronczak@gmail.com>"
 
 VOLUME /media
